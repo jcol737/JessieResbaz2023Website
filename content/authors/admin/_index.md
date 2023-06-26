@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jessie Colbert
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jessie
+last_name: Colbert
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Geospatial Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
