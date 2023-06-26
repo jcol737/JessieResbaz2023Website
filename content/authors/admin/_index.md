@@ -18,30 +18,27 @@ role: Geospatial Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Auckland
+    url: https://www.auckland.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include GIS, cartography, spatial statistics and modelling, population change, and health geography.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - GIS
+  - Spatial statistics and modelling
+  - Cartography and geovisualisation methods
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA(Hons) in Geography
+      institution: The University of Auckland
+      year: 2019
+    - course: BA in Geography and Statistics
+      institution: The University of Auckland
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,18 +48,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  - #icon: twitter
+    #icon_pack: fab
+    #link: https://twitter.com/GeorgeCushen
+    #label: Follow me on Twitter
+    #display:
+    #  header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=HXj52toAAAAJ&hl=en
+    display:
+      header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jcol737
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
